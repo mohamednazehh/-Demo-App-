@@ -1,0 +1,4 @@
+enum AuthFormType {
+  main,
+  order,
+}
